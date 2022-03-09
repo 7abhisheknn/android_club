@@ -131,4 +131,26 @@ products,products info,cart are listners/consumers
         <td><img src="assignment_images\a5\3.png" width="280" /></td>
     </tr>
 </table>
+<h2>Assignment 6 </h2>
+Navigation<br>
+push(like stack)<br>
+tabbar<br>
+hamburger menu<br>
+
+
+<br><br>
+<table>
+    <tr>
+        <td>Homepage</td>
+        <td>other tab</td>
+        <td>Menu</td>
+        <td>navigation by push</td>
+    </tr>
+    <tr>
+        <td><img src="assignment_images\a6\1.png" width="280" /></td>
+        <td><img src="assignment_images\a6\2.png" width="280" /></td>
+        <td><img src="assignment_images\a6\3.png" width="280" /></td>
+        <td><img src="assignment_images\a6\4.png" width="280" /></td>
+    </tr>
+</table>
 <h1>thank you</h1>
